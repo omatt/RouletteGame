@@ -1,12 +1,14 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Originally - a simple Roulette Game created by Bruno Marquet. Converted
+into Java by Omar Matthew Reyes with a slight improvements in error handling
+from user inputs.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Roulette Game
+PURPOSE OF PROJECT: Show basic functions in Java and an algorithm to set
+range on random generator.
+VERSION or DATE: 
+2013/09/24 Converted the Python code into Java.
+2013/09/25 Improved error handling.
+AUTHORS: Reyes, Omar Matthew B.
+
